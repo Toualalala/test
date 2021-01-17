@@ -30,9 +30,9 @@ public class App
 //
 //        System.out.println(person1.getName());
 
-        AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext(ApplicationContextXmlAlterntaive.class);
-        PersonIntro p1 = context.getBean(PersonIntro.class);
-        //System.out.println(p1);
+//        AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext(ApplicationContextXmlAlterntaive.class);
+//        //        PersonIntro p1 = context.getBean(PersonIntro.class);
+//        //        //System.out.println(p1);
     }
 }
 
